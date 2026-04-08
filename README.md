@@ -67,6 +67,8 @@
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=CuteKitty0000&color=00FF41&style=flat-square&label=PROFILE+VIEWS)
+
 <div align="center">
   <sub>🕶️ Stay anonymous. Stay secure.</sub>
 </div>
