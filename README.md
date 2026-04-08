@@ -4,65 +4,66 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&width=435&lines=Initializing+profile...;Access+granted+✔;Welcome%2C+Agent+Navaneetha+Krishnan." alt="Typing SVG" />
 </div>
 
-### 🧠 Profile
+### 🧠 About Me
 - [cite_start]**Name:** Navaneetha Krishnan M [cite: 1]
-- [cite_start]**Role:** Cybersecurity Engineer (AI & DFIR Specialization) [cite: 2]
-- [cite_start]**Focus:** `[Penetration Testing, Malware Analysis, DFIR, Secure System Development]` [cite: 24, 26]
-- **Motto:** *"Exploit. Analyze. Secure."*
+- [cite_start]**Role:** Cybersecurity Engineer with AI & DFIR Specialization [cite: 2]
+- [cite_start]**Focus:** Expertise in penetration testing, digital forensics, and secure system development [cite: 24]
+- **Status:** Always Learning / Always Hacking (Ethically)
 
-> 💀 **I break systems to understand them.** > 🛡️ **Then I rebuild them stronger.**
+> 💀 **I break systems to understand them.**
+> 🛡️ **Then I rebuild them stronger.**
 
 ---
 
 ### 🛠️ Tech Arsenal
 
-| [cite_start]💻 Programming [cite: 25] | [cite_start]🔐 Cybersecurity [cite: 8] | [cite_start]⚙️ Systems & Tools [cite: 25] |
+| 💻 Programming | 🔐 Cybersecurity | ⚙️ Tools & Systems |
 | :--- | :--- | :--- |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Pentesting](https://img.shields.io/badge/Pentesting-FF0000?style=flat-square&logo=kali-linux&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | ![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-4B0082?style=flat-square) | ![Network Analysis](https://img.shields.io/badge/Traffic_Analysis-blue?style=flat-square) |
+| [cite_start]![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) [cite: 25] | [cite_start]![Pentesting](https://img.shields.io/badge/Pentesting-FF0000?style=flat-square&logo=kali-linux&logoColor=white) [cite: 9] | [cite_start]![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) [cite: 25] |
+| [cite_start]![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) [cite: 25] | [cite_start]![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-4B0082?style=flat-square) [cite: 10] | [cite_start]![DFIR](https://img.shields.io/badge/DFIR-Incident_Response-blue?style=flat-square) [cite: 11] |
 
-* [cite_start]**Specialized Skills:** Exploit Development [cite: 9][cite_start], Reverse Engineering [cite: 10][cite_start], Cryptography & Encryption [cite: 12][cite_start], and Steganography[cite: 32].
+- [cite_start]**Specialized Skills:** Exploit Development [cite: 9][cite_start], Reverse Engineering [cite: 10][cite_start], Cryptography Breaking/Design [cite: 12, 13][cite_start], and Network Traffic Analysis[cite: 14].
 
 ---
 
 ### 🧪 Experience Log
 * **Founder & CEO** @ **NZT Security | [cite_start]NeuroZen-AI** (2023 – Present) [cite: 34, 35, 37]
-    * Developing AI-driven threat detection systems and security tools[cite: 38].
+    * Built and led cybersecurity and AI-based solutions[cite: 36].
+    * [cite_start]Developed AI-driven threat detection systems and managed product development[cite: 38, 39].
 * [cite_start]**Cybersecurity Intern** @ **Prodigy InfoTech** (June 2024 – July 2024) [cite: 29, 30, 31]
-    * [cite_start]Developed encryption/steganography solutions and automated security processes using Python/C++[cite: 32, 33].
-* **Freelance Bug Bounty Hunter** (HackerOne / Bugcrowd) [cite: 40, 42]
-    * [cite_start]Identifying vulnerabilities through penetration testing and responsible disclosure[cite: 41, 44].
+    * Developed encryption and steganography solutions for secure data transmission[cite: 32].
+    * [cite_start]Automated security processes using Python and C++[cite: 33].
+* [cite_start]**Freelance Bug Bounty & Security Research** (2023 – Present) [cite: 40]
+    * Identified and reported vulnerabilities on platforms like HackerOne and Bugcrowd[cite: 41, 42].
 
 ---
 
 ### 🎓 Education
-* [cite_start]**B.E. in Cybersecurity & Artificial Intelligence** [cite: 46]
-    * **Sri Krishna College of Engineering and Technology** (2024 – 2028) [cite: 47, 49]
-    * [cite_start]**GPA:** 7.8 / 10.0 [cite: 48]
+* [cite_start]**Bachelor's Degree in Cybersecurity & Artificial Intelligence** [cite: 46]
+    * [cite_start]**Sri Krishna College of Engineering and Technology** [cite: 47]
+    * **GPA:** 7.8/10.0 [cite: 48]
+    * [cite_start]**Timeline:** 2024 – 2028 [cite: 49]
 
 ---
 
-### 🧠 AI & Security Project Showcase
-* [cite_start]**🔹 AI Threat Detection System:** ML-based anomaly detection for network traffic[cite: 38].
-* **🔹 Malware Analysis Toolkit:** Automated static and dynamic analysis[cite: 10, 26].
-* [cite_start]**🔹 Secure Encryption Engine:** Custom cryptographic and steganography systems for secure transmission[cite: 32].
-
----
-
-### 📊 GitHub Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=tokyonight" alt="Langs" />
-</div>
+### 🧠 AI Project Showcase
+* [cite_start]**🔹 AI Threat Detection System:** Developed tools for AI-driven threat detection[cite: 38].
+* **🔹 Secure Encryption Engine:** Developed solutions for encryption and steganography[cite: 32].
 
 ---
 
 ### 🌐 Connect
-- [cite_start]📧 [mnavaneethakrishnan403@gmail.com](mailto:mnavaneethakrishnan403@gmail.com) [cite: 5]
-- [cite_start]🌍 [nztfoundationgroup.com](https://www.nztfoundationgroup.com) [cite: 7]
-- [cite_start]📍 Kuniyamuthur, Tamil Nadu, India [cite: 6]
+- **Email:** mnavaneethakrishnan403@gmail.com [cite: 5]
+- [cite_start]**Web:** [nztfoundationgroup.com](https://www.nztfoundationgroup.com/) [cite: 7]
+- **Location:** Kuniyamuthur, Tamil Nadu [cite: 6]
+- **Languages:** English (Fluent), Tamil (Fluent), Russian (Basic) [cite: 15, 16, 17, 18]
 
-[cite_start]**🧬 Languages:** English (Fluent), Tamil (Fluent), Russian (Basic)[cite: 16, 17, 18].
+---
+
+### ☠️ Motto
+> *"Exploit. Analyze. Secure."*
+
+**🧬 Fun Fact:** There are only `10` types of people: Those who understand binary and those who don't.
 
 ---
 
