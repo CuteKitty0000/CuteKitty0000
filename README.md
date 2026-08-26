@@ -27,9 +27,6 @@
 ---
 
 ### 🧪 Experience Log
-* **Founder & CEO** @ **NZT Security | NeuroZen-AI** (2023 – Present)
-    * Built and led cybersecurity and AI-based solutions.
-    * Developed AI-driven threat detection systems and managed product development.
 * **Cybersecurity Intern** @ **Prodigy InfoTech** (June 2024 – July 2024)
     * Developed encryption and steganography solutions for secure data transmission.
     * Automated security processes using Python and C++.
